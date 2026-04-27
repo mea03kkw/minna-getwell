@@ -6,6 +6,11 @@ A simple get-well card for Minna 💛
 
 👉 [**View the Get-Well Card**](https://mea03kkw.github.io/minna-getwell)
 
+## QR Code
+
+Scan to open on mobile:
+![QR Code](./qr-code.png)
+
 ## About
 
 This is a lightweight, static HTML get-well card built with zero dependencies. No frameworks, no build tools, just a single HTML file.
@@ -23,7 +28,8 @@ This is a lightweight, static HTML get-well card built with zero dependencies. N
 ```
 minna-getwell/
 ├── README.md          # This file
-└── index.html         # The get-well card page
+├── index.html         # The get-well card page
+└── qr-code.png        # QR code for quick mobile access
 ```
 
 ## Deployment
